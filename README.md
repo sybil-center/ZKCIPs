@@ -16,5 +16,3 @@ Another important goal of this protocol is to create a digital environment where
 > ## Examples
 
 - [ZK credentials in action with Mina Protocol](https://demo-mina.sybil.center)
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+[native+code]+}+File&mimeType=application/octet-stream&fileName=Zero-Knowledge+Credentials+.md&fileType=undefined&fileExtension=md
